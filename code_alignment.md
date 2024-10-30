@@ -1,5 +1,3 @@
----
-
 # Project Code Alignment with Defined Hypotheses and Aims
 
 **Author:** Mustafa Saifee  
